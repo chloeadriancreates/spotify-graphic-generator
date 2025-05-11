@@ -126,5 +126,9 @@ body {
                 font-size: 25px;
             }
         }
+
+        & footer a {
+            color: var(--dark);
+        }
     }
 }

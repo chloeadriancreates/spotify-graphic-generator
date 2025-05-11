@@ -120,6 +120,7 @@ const Home = () => {
         </div>
       }
       {data && <SpotifyGraphic episode={data} />}
+      <footer class="footer">Made with ♥ by <a href="https://chloeadrian.dev">Chloé Adrian</a> in 2025</footer>
     </div>
   );
 }
